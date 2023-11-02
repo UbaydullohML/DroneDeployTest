@@ -19,4 +19,4 @@
 - Mining: Mining companies use DroneDeploy to track inventory, monitor operations, and create safety maps.
 
 
-## The WMPL file is a proprietary file format that DroneDeploy uses to store FLY mission information. The SDK that DroneDeploy is developing will allow developers to create applications that can read and execute WMPL files on existing drones.
+##### The WMPL file is a proprietary file format that DroneDeploy uses to store FLY mission information. The SDK that DroneDeploy is developing will allow developers to create applications that can read and execute WMPL files on existing drones.
