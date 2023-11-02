@@ -40,8 +40,16 @@
 
 - KMl files are more general-purpose file formats that can be used to store and share geospatial data. They are supported by a wide range of software like GIS, and web mapping services. It is ideal to share drone data with others or publish drone data online and visualize.
 
-- 
+![image](https://github.com/UbaydullohML/DroneDeployTest/assets/75980506/167e45eb-2c22-46fe-8653-a5c2561c2c79)
 
-- 
+![image](https://github.com/UbaydullohML/DroneDeployTest/assets/75980506/e917a99b-b9f4-4b7d-bc52-c23272e59002)
+
+![image](https://github.com/UbaydullohML/DroneDeployTest/assets/75980506/02190afc-7ffa-4fc8-b698-42acf0e9028e)
+
+
+![image](https://github.com/UbaydullohML/DroneDeployTest/assets/75980506/da1ee33f-413d-48f5-b6b2-2273cd60c22a)
+
+![image](https://github.com/UbaydullohML/DroneDeployTest/assets/75980506/4da73221-1b51-43ec-8c96-3c9a3098d45f)
+
 
 
