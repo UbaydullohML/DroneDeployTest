@@ -27,9 +27,9 @@
 - Usage: WPML files are used to control the drone's flight path and to collect data. The drone can read the wpml file and fly along the path defined in the file. WPML files are typically used to execute FLY missions, which are missions that are flown autonomously by the drone.
 
 - WMPL file usage example, a construction company might use a WPML file to fly a drone over a construction site to create a map or 3D model.
-- WMPL files controls drone in usage by providing it with flight plan. The flight plan contains information about the waypoints that the drone should fly to, the speed at which it should fly, the altitude at which it should fly, and the camera settings that it should use.
+- WMPL files control drone usage by providing it with the flight plan. The flight plan contains information about the waypoints that the drone should fly to, the speed at which it should fly, the altitude at which it should fly, and the camera settings that it should use.
 
-- Here is a more detailed explanation of how a WPML file controls the drone in usage:
+#### Here is a more detailed explanation of how a WPML file controls the drone in usage:
 
 - The drone controller reads the WPML file and loads the flight plan into its memory.
 - The drone controller uses the flight plan to calculate the drone's current position and the next waypoint that it needs to fly to.
@@ -37,5 +37,11 @@
 - The drone controller monitors the drone's position and makes adjustments to the commands as needed to ensure that the drone is flying along the planned path.
 
 ### KML 
+
+- KMl files are more general-purpose file formats that can be used to store and share geospatial data. They are supported by a wide range of software like GIS, and web mapping services. It is ideal to share drone data with others or publish drone data online and visualize.
+
+- 
+
+- 
 
 
